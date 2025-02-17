@@ -28,4 +28,11 @@ Este projeto é uma API RESTful desenvolvida com Spring Boot e MongoDB, utilizan
 3. Configure o MongoDB no arquivo application.properties ou application.yml.
 
 ## Modelo de Domínio
-![Modelo de domínio Spring Boot com MongoDB]
+![Image](https://github.com/user-attachments/assets/16cc9861-5f9a-4cf2-9ce9-09c81276a6e5).
+
+## Executando o Projeto
+1. Compile e execute o projeto com Maven:
+     ```bash
+      mvn spring-boot:run
+
+2. A API estará disponível em http://localhost:8080.
