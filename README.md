@@ -6,15 +6,21 @@ Este projeto é uma API RESTful desenvolvida com Spring Boot e MongoDB, utilizan
 
 - Java 17+
 -Spring Boot
+
 -Spring Data MongoDB
+
 -MongoDB
+
 -Maven
+
 -Requisito
 
 ## Requisitos
 
 - Java 17 ou superior instalado
+- 
 - MongoDB instalado e em execução
+- 
 - Maven instalado
   
 ## Configuração
